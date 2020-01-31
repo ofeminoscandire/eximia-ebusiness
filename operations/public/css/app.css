@@ -1,0 +1,9 @@
+
+.dropdown-item2{
+    /*padding:0.25rem 10px !important;*/
+    padding-top: 0.25rem !important;
+    padding-bottom: 0.25rem !important;
+    padding-right: 0px !important;   
+    padding-left: 10px !important;
+    width: 100% !important;
+}
